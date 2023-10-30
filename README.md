@@ -6,7 +6,8 @@
 
 ### Hello, World!
 
-Retornando ao desenvolvimento de software em 2023, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.
+Iniciando no mundo do desenvolvimento em 2023, me reconheço como um entusiasta, tendo a oportunidade de estudar dia após dia sobre algo que verdadeiramente sinto paixão.
+Sempre me interessei e estive próximo da área de tecnologia, sempre utilizando ela para solucinar problemas que surgiam ou melhorar minha performance nos antigos empregos. Hoje, vejo que trilhei um caminho que me trouxe até aqui, com muita experiência e algumas recomendações na minha bagagem profissional.
 
 ## Projetos
 
