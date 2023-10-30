@@ -11,6 +11,7 @@ Retornando ao desenvolvimento de software em 2023, me reconheço como entusiasta
 ## Projetos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorPrudente&repo=Agenda&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/VictorPrudente/Agenda)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorPrudente&repo=credit-application-system&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/VictorPrudente/Agenda](https://github.com/VictorPrudente/credit-application-system))
 
 
 ## Tecnologias
